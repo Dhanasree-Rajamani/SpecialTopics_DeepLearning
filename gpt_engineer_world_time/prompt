@@ -1,1 +1,0 @@
-write a simple python application to get the input of a country name and display the current date and time of the country given. use a gui. if invalid country name or empty value is given, display a message as invalid input. give list of countries as a dropdown.
