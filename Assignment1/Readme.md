@@ -1,4 +1,4 @@
-**Readme for Assignment 1**
+**Readme**
 
 Assignment 1: Using ChatGPT for Data Science problem
 
