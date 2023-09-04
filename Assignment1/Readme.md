@@ -2,7 +2,8 @@
 
 Using ChatGPT for Data Science problem
 
-Using the following dataset from kaggle to perform various CRISP-DM stages using ChatGPT: https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
+Using the following dataset from kaggle to perform various CRISP-DM stages using ChatGPT: 
+https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
 
 Medium Article Link: https://medium.com/@dhanasree.rajamani/chatgpt-for-data-science-71833cda363c
 
