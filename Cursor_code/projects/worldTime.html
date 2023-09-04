@@ -1,0 +1,34 @@
+<html>
+<head>
+    <title>World Time Map</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <style>
+        #info {
+            width: 100%;
+        }
+        .country-button {
+            display: inline-block;
+            margin: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>World Time Map</h1>
+    <div id="info"></div>
+
+    <script>
+        // Fetch all timezones
+        $.getJSON('http://worldtimeapi.org/api/timezone', function(data) {
+            data.forEach(function(timezone) {
+                $.getJSON('http://worldtimeapi.org/api/timezone/' + timezone, function(timeData) {
+                    var button = $('<button class="country-button">' + timezone + '</button>');
+                    button.click(function() {
+                        $('#info').html('<h2>' + timezone + '</h2><p>' + timeData.datetime + '</p>');
+                    });
+                    $('#info').append(button);
+                });
+            });
+        });
+    </script>
+</body>
+</html>
