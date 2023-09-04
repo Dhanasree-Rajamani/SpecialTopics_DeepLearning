@@ -1,1 +1,0 @@
-Write a simple python application which will take height and weight as input and provide bmi as output. The application should display "enter your weight" and "enter your height". User will give corresponding inputs near the display.
