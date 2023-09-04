@@ -1,0 +1,60 @@
+We will be using Python's tkinter library to create the GUI for this application. The application will consist of two main files:
+
+1. `main.py`: This is the entry point of the application. It will contain the main GUI logic and event handlers.
+2. `bmi_calculator.py`: This file will contain the logic for calculating the BMI.
+
+We will also need a `requirements.txt` file to list the dependencies of the application.
+
+Let's start with the `main.py` file:
+
+main.py
+```python
+import tkinter as tk
+from bmi_calculator import calculate_bmi
+
+def calculate():
+    weight = float(weight_entry.get())
+    height = float(height_entry.get())
+    bmi = calculate_bmi(weight, height)
+    result_label.config(text=f"Your BMI is {bmi}")
+
+root = tk.Tk()
+root.title("BMI Calculator")
+
+weight_label = tk.Label(root, text="Enter your weight (in kg):")
+weight_label.pack()
+weight_entry = tk.Entry(root)
+weight_entry.pack()
+
+height_label = tk.Label(root, text="Enter your height (in cm):")
+height_label.pack()
+height_entry = tk.Entry(root)
+height_entry.pack()
+
+calculate_button = tk.Button(root, text="Calculate", command=calculate)
+calculate_button.pack()
+
+result_label = tk.Label(root, text="")
+result_label.pack()
+
+root.mainloop()
+```
+
+Next, the `bmi_calculator.py` file:
+
+bmi_calculator.py
+```python
+def calculate_bmi(weight, height):
+    height_in_meters = height / 100
+    bmi = weight / (height_in_meters ** 2)
+    return round(bmi, 2)
+```
+
+Finally, the `requirements.txt` file:
+
+requirements.txt
+```
+tkinter==8.6
+```
+
+To run the application, install the dependencies with `pip install -r requirements.txt` and then run `python main.py`.
