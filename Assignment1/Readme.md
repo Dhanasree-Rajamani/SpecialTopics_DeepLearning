@@ -7,7 +7,7 @@ https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
 
 Medium Article Link: https://medium.com/@dhanasree.rajamani/chatgpt-for-data-science-71833cda363c
 
-The chat transcipt for this is present in folder: chatGPT_data_Science_transcript
+Chat transcript: https://chat.openai.com/share/6005b4ef-a183-4b8d-9065-f326efae3e5c
 
 Images:
 
