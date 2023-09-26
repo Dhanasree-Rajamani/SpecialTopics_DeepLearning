@@ -34,11 +34,11 @@ The application interacts with the user, to understand the requirements better t
 
 ![image](https://github.com/Dhanasree-Rajamani/SpecialTopics_DeepLearning/assets/111466424/da1d5336-be53-464d-8fe4-40442742fc7c)
 
-![image](https://github.com/Dhanasree-Rajamani/SpecialTopics_DeepLearning/assets/111466424/f59ee83a-32e8-44c2-b96a-a9ef7a78c02d)
-
 ![image](https://github.com/Dhanasree-Rajamani/SpecialTopics_DeepLearning/assets/111466424/7a575269-cca0-48fa-95ad-f0301be7044a)
 
 ![image](https://github.com/Dhanasree-Rajamani/SpecialTopics_DeepLearning/assets/111466424/c534b1ee-7014-4f93-9425-632dc4fcf106)
+
+![image](https://github.com/Dhanasree-Rajamani/SpecialTopics_DeepLearning/assets/111466424/f59ee83a-32e8-44c2-b96a-a9ef7a78c02d)
 
 The final refined prompt, along with steps to design the refined effective prompt. 
 
