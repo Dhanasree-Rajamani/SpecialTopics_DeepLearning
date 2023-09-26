@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prompt Search App</title>
+</head>
+<body>
+    <h1>Prompt Library</h1>
+    <form method="POST">
+        <label for="search_prompt">Enter a Search Prompt:</label>
+        <input type="text" name="search_prompt" id="search_prompt" required>
+        <button type="submit">Search</button>
+        <label for="new_prompt">Add New Prompt:</label>
+        <input type="text" id="new_prompt" name="new_prompt">
+        
+        <button type="submit" value="Submit">Submit</button>
+    </form>
+    <br>
+    <br>
+    {% if prompts %}
+    <h2>Matching Prompts:</h2>
+    <ul>
+        {% for prompt in prompts %}
+        <li>{{ prompt }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+</body>
+</html>
