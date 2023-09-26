@@ -19,11 +19,12 @@ text_splitter = RecursiveCharacterTextSplitter(chunk_size=100, chunk_overlap=0)
 texts = text_splitter.split_documents(data)
 
 # Initialize embeddings using OpenAI
-OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY', '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')
+#removing api keys for security reasons
+OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY', 'sk-')
 embeddings = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
 
 # Initialize Pinecone
-PINECONE_API_KEY = os.environ.get('PINECONE_API_KEY', '41d2cd2f-fd41-4bfb-8b77-f48f15806b7c')
+PINECONE_API_KEY = os.environ.get('PINECONE_API_KEY', '4**************************c')
 PINECONE_API_ENV = os.environ.get('PINECONE_API_ENV', 'gcp-starter')
 pinecone.init(api_key=PINECONE_API_KEY, environment=PINECONE_API_ENV)
 
