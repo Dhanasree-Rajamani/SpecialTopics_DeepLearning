@@ -1,6 +1,7 @@
 Question 1:
 a) Use chatgpt to write an medium.com article on best practices for writing prompts.
 I have written 2 Medium articles - the article has been written based on the knowledge level of reader(basic and advanced).
+
 Article 1: https://medium.com/@dhanasree.rajamani/mastering-the-art-of-prompt-engineering-crafting-thoughtful-questions-for-ai-and-beyond-c55371fe12a2
 
 Article 2: https://medium.com/@dhanasree.rajamani/the-science-behind-prompt-engineering-a-guide-for-ai-nlp-experts-d0b5ef14da6a
