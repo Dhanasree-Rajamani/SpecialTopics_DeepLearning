@@ -65,6 +65,12 @@ The top similar prompts are retrieved from the prompt library based on the given
 
 Question 2: Transformers and finetuning with LLMs
 
-a)
+a) 
+
+Text generation with NanoGPT using Pytorch : https://drive.google.com/file/d/15KOzGX08XStRZyZIBwm1IBB6d08fgqKK/view?usp=sharing
+Text generation with NanoGPT using Tensorflow : https://colab.research.google.com/drive/1eBa4mY_RJXG4XYd1zPErXg-Cn677K0Hq?usp=sharing
+Text generation with NanoGPT using JAX : https://colab.research.google.com/drive/1eBa4mY_RJXG4XYd1zPErXg-Cn677K0Hq?usp=sharing
+Medium Article: https://medium.com/@dhanasree.rajamani/text-generation-with-transformers-98fdd86f81aa
 
 b)
+Colab: https://colab.research.google.com/drive/1rrhMVkVc_0TjeIUBMq7vVb-ONa1gHVI1?usp=sharing
