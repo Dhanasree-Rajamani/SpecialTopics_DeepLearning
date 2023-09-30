@@ -4,7 +4,7 @@ a) Implement nanogpt from scratch using your own code in pytorch, tensorflow and
 
 Text generation with NanoGPT using Pytorch: 
 
-https://drive.google.com/file/d/15KOzGX08XStRZyZIBwm1IBB6d08fgqKK/view?usp=sharing
+https://colab.research.google.com/drive/15KOzGX08XStRZyZIBwm1IBB6d08fgqKK?usp=sharing
 
 Text generation with NanoGPT using Tensorflow: 
 
