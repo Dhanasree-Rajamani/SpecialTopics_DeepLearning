@@ -14,7 +14,7 @@ d) Use QLora to finetune a model. generate custom data set.
 
 I have generated a custom dataset for mental healthcare using multiple Books, PDFs on mental health and using GPT4.
 
-https://colab.research.google.com/drive/1N4qxbrf_yMYpCB_nWMGyNys6xzzPGGjE?usp=sharing
+https://colab.research.google.com/drive/1ZbvAf_rg9WRA851DsCU07vuKkE5RyS_q?usp=sharing
 
 e) Use mistral llm with RAG and demonstrate a production usecase. 
 
