@@ -24,7 +24,8 @@ I have generated a custom dataset for mental healthcare using multiple Books, PD
 
 colab: https://colab.research.google.com/drive/19Cvc60sZ7ANoCtetEzZFABS-Z0HOTIG0?usp=sharing
 
-f)
+f) Integrate mistral model as backend with langchain - demonstrate simple prompts
+colab: https://colab.research.google.com/drive/1bfsWl_pGPHRd4sQ_sMf6dBxpaH33GgYz?usp=sharing
 
 g)
 
