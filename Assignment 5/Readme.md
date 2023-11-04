@@ -8,7 +8,8 @@ b) Implement auto agent
 
 colab: https://colab.research.google.com/drive/1smm0UST7ku6uijFo3klzn35OrCXBmmD0?usp=sharing
 
-c)
+c) Finetune LLM for your custom task
+
 
 d) Use QLora to finetune a model. generate custom data set. 
 
