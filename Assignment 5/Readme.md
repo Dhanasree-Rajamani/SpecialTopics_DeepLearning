@@ -14,7 +14,7 @@ d) Use QLora to finetune a model. generate custom data set.
 
 I have generated a custom dataset for mental healthcare using multiple Books, PDFs on mental health and using GPT4.
 
-https://colab.research.google.com/drive/1ZbvAf_rg9WRA851DsCU07vuKkE5RyS_q?usp=sharing
+colab: https://colab.research.google.com/drive/1ZbvAf_rg9WRA851DsCU07vuKkE5RyS_q?usp=sharing
 
 e) Use mistral llm with RAG and demonstrate a production usecase. 
 
@@ -25,9 +25,12 @@ I have generated a custom dataset for mental healthcare using multiple Books, PD
 colab: https://colab.research.google.com/drive/19Cvc60sZ7ANoCtetEzZFABS-Z0HOTIG0?usp=sharing
 
 f) Integrate mistral model as backend with langchain - demonstrate simple prompts
+
 colab: https://colab.research.google.com/drive/1bfsWl_pGPHRd4sQ_sMf6dBxpaH33GgYz?usp=sharing
 
-g)
+g) Quantize llm with ggml and gguf and build an end2end chat application on mobile phone and load the model and demonstrate using MLC end2end.
+
+colab: https://colab.research.google.com/drive/1-rZ2oGf9uC3mh1051z8jA9XftU9PQDRV?usp=sharing
 
 h)
 
