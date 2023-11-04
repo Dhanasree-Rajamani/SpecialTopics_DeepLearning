@@ -10,6 +10,7 @@ colab: https://colab.research.google.com/drive/1smm0UST7ku6uijFo3klzn35OrCXBmmD0
 
 c) Finetune LLM for your custom task
 
+colab : https://colab.research.google.com/drive/1Bkg6JHXRr_eIshLcAp3YzzL3p8KHbb1p?usp=sharing
 
 d) Use QLora to finetune a model. generate custom data set. 
 
