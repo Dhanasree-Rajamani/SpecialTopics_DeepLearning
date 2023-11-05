@@ -34,6 +34,8 @@ g) Quantize llm with ggml and gguf and build an end2end chat application on mobi
 
 colab: https://colab.research.google.com/drive/1-rZ2oGf9uC3mh1051z8jA9XftU9PQDRV?usp=sharing
 
-h)
+h) Use LLM studio and LLM Data Studio to demonstrate data set generation, fine tuning, deployment to huggingface and inference (Gradio)
+
+colab: https://colab.research.google.com/drive/15kz5IJ6KEKLoMtW7ere5P8s4GrOvHOQ0?usp=sharing
 
 
