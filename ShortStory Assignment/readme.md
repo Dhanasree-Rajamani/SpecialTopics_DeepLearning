@@ -1,4 +1,4 @@
-A Survey on fairness in large language models
+A Survey on Fairness in Large Language Models
 
 
 Medium article: https://medium.com/@dhanasree.rajamani/a-survey-on-fairness-in-large-language-models-05ca2ae90933
