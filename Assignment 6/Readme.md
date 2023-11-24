@@ -4,10 +4,18 @@ I have used a template based on Vue and modified it for my usecase.
 
 I have deployed the application using Vercel. 
 
-Deployed web application:
+Deployed web application: https://testapp-by-dhanasree-dz9n.vercel.app/
 
 Medium article: https://medium.com/@dhanasree.rajamani/generative-ai-based-app-using-vercel-2b2369b79712
 
-Demo video:
+Demo video: https://www.youtube.com/watch?v=l2BqNaAdMic
+
+Github repo with the project code: https://github.com/Dhanasree-Rajamani/testapp_by_dhanasree
+
+b) Semantic kernel
+
+For this question, I built a chat copilot with semantic kernel framework end2end with python using assistant api
+
+
 
 
