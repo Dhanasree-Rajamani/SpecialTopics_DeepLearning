@@ -1,5 +1,7 @@
 a) For this question, I have built an end2end generative AI based app using Vue, Vite, Vercel and Replit
 
+Code for this project is present here in Github repo: https://github.com/Dhanasree-Rajamani/testapp_by_dhanasree
+
 I have used a template based on Vue and modified it for my usecase.
 
 I have deployed the application using Vercel. 
@@ -20,9 +22,7 @@ Medium article: https://medium.com/@dhanasree.rajamani/generative-ai-based-app-u
 
 Demo video: https://www.youtube.com/watch?v=l2BqNaAdMic
 
-Github repo with the project code: https://github.com/Dhanasree-Rajamani/testapp_by_dhanasree
-
-b) Semantic kernel
+b) Semantic kernel : since code is too large, I've uploaded code zip file to google drive. URL : https://drive.google.com/drive/folders/112wMBylwdj46ng6GDJO57Erp_I-qn_Uw?usp=sharing
 
 For this question, I built a chat copilot with semantic kernel framework end2end using assistant api
 
