@@ -41,7 +41,7 @@ Here is what the application looks like:
 
 Medium Article: https://medium.com/@dhanasree.rajamani/chat-copilot-with-semantic-kernel-framework-using-assistant-api-b66e272b2b41
 
-Demo: 
+Demo: https://youtu.be/neol44Gg-Z0
 
 
 
