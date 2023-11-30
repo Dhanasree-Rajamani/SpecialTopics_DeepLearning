@@ -38,4 +38,8 @@ h) Use LLM studio and LLM Data Studio to demonstrate data set generation, fine t
 
 colab: https://colab.research.google.com/drive/15kz5IJ6KEKLoMtW7ere5P8s4GrOvHOQ0?usp=sharing
 
+I have included the demo of the assignments in the video here:
+
+Demo: https://drive.google.com/drive/folders/1Oku01BradEuiPYk4HxHybHuI8uHDQRxA?usp=sharing
+
 
