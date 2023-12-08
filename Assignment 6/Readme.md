@@ -1,5 +1,9 @@
 a) For this question, I have built an end2end generative AI based app using Vue, Vite, Vercel and Replit
 
+Medium article: https://medium.com/@dhanasree.rajamani/generative-ai-based-app-using-vercel-2b2369b79712
+
+Demo video: https://www.youtube.com/watch?v=l2BqNaAdMic
+
 Code for this project is present here in Github repo: https://github.com/Dhanasree-Rajamani/testapp_by_dhanasree
 
 I have used a template based on Vue and modified it for my usecase.
@@ -18,13 +22,13 @@ Application screenshot:
 
 Deployed web application: https://testapp-by-dhanasree-dz9n.vercel.app/
 
-Medium article: https://medium.com/@dhanasree.rajamani/generative-ai-based-app-using-vercel-2b2369b79712
-
-Demo video: https://www.youtube.com/watch?v=l2BqNaAdMic
-
 b) Semantic kernel : since code is too large, I've uploaded code zip file to google drive. URL : https://drive.google.com/drive/folders/112wMBylwdj46ng6GDJO57Erp_I-qn_Uw?usp=sharing
 
 For this question, I built a chat copilot with c# and Python using semantic kernel framework end2end using assistant api
+
+Medium Article: https://medium.com/@dhanasree.rajamani/chat-copilot-with-semantic-kernel-framework-using-assistant-api-b66e272b2b41
+
+Demo: https://youtu.be/neol44Gg-Z0
 
 I have built a chat copilot, that would help users with their cooking. If a user provides the ingredients they have, and the cuisine and any other special instructions, the application would provide 1 or more recipes based on the user's preferences and ingredients. It also helps further with their cooking answering any questions that the user might have.
 
@@ -38,10 +42,6 @@ Here is what the application looks like:
 ![ss3](https://github.com/Dhanasree-Rajamani/SpecialTopics_DeepLearning/assets/111466424/1cdf7c53-07c3-47ae-bac9-459d66dfb493)
 
 ![ss4](https://github.com/Dhanasree-Rajamani/SpecialTopics_DeepLearning/assets/111466424/9c66b8ee-7b43-4ff7-af92-e9981521fa18)
-
-Medium Article: https://medium.com/@dhanasree.rajamani/chat-copilot-with-semantic-kernel-framework-using-assistant-api-b66e272b2b41
-
-Demo: https://youtu.be/neol44Gg-Z0
 
 
 
