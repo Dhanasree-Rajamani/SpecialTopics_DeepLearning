@@ -24,7 +24,7 @@ Demo video: https://www.youtube.com/watch?v=l2BqNaAdMic
 
 b) Semantic kernel : since code is too large, I've uploaded code zip file to google drive. URL : https://drive.google.com/drive/folders/112wMBylwdj46ng6GDJO57Erp_I-qn_Uw?usp=sharing
 
-For this question, I built a chat copilot with semantic kernel framework end2end using assistant api
+For this question, I built a chat copilot with c# and Python using semantic kernel framework end2end using assistant api
 
 I have built a chat copilot, that would help users with their cooking. If a user provides the ingredients they have, and the cuisine and any other special instructions, the application would provide 1 or more recipes based on the user's preferences and ingredients. It also helps further with their cooking answering any questions that the user might have.
 
