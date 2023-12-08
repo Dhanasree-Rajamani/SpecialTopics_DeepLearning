@@ -4,6 +4,8 @@ Medium article: https://medium.com/@dhanasree.rajamani/generative-ai-based-app-u
 
 Demo video: https://www.youtube.com/watch?v=l2BqNaAdMic
 
+Deployed web application: https://testapp-by-dhanasree-dz9n.vercel.app/
+
 Code for this project is present here in Github repo: https://github.com/Dhanasree-Rajamani/testapp_by_dhanasree
 
 I have used a template based on Vue and modified it for my usecase.
@@ -19,8 +21,6 @@ Application screenshot:
 ![image](https://github.com/Dhanasree-Rajamani/SpecialTopics_DeepLearning/assets/111466424/bbe7c3c3-9f47-47e0-8b97-b88b0944e8f5)
 
 ![image](https://github.com/Dhanasree-Rajamani/SpecialTopics_DeepLearning/assets/111466424/3f2f4a5f-572c-400c-908d-0a1107c2e68f)
-
-Deployed web application: https://testapp-by-dhanasree-dz9n.vercel.app/
 
 b) Semantic kernel : since code is too large, I've uploaded code zip file to google drive. URL : https://drive.google.com/drive/folders/112wMBylwdj46ng6GDJO57Erp_I-qn_Uw?usp=sharing
 
