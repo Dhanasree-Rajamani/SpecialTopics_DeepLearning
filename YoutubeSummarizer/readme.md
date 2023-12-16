@@ -6,7 +6,7 @@ Abraham Kong, Devi Priya Ravi, Dhanasree Rajamani, Sravani Thota
 
 **Slides**: https://docs.google.com/presentation/d/1stexlJ6LxakoZMvc8kEl5vgoHbGNIV7U7jvVwjBgbpI/edit?usp=sharing
 
-Deliverables drive(contains videos, slide, code and colabs): https://drive.google.com/drive/folders/1Bb0p9xwetvQujTVoR8MEivCparqGm1em 
+**Deliverables** drive(contains videos, slide, code and colabs): https://drive.google.com/drive/folders/1Bb0p9xwetvQujTVoR8MEivCparqGm1em 
 The code and colabs are also in the current github repository.
 
 **Video**: https://youtu.be/Ry1niTxSd6I
